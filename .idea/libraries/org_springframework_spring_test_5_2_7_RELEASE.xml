@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.springframework:spring-test:5.2.7.RELEASE" type="repository">
+    <properties maven-id="org.springframework:spring-test:5.2.7.RELEASE" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-test-5.2.7.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-5.2.7.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jcl-5.2.7.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

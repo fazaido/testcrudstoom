@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.glassfish:javax.persistence:3.0-b29" type="repository">
+    <properties maven-id="org.glassfish:javax.persistence:3.0-b29" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence-3.0-b29.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
